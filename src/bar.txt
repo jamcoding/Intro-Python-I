@@ -1,0 +1,3 @@
+First line is printed
+Second line is printed
+Third line is printed
